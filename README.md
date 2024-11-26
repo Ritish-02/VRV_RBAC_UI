@@ -1,5 +1,5 @@
 # VRV_RBAC_UI
-# Role and Permission Management System
+# Role Based Action Control
 
 A web application for managing roles and permissions. This system allows administrators to add, edit, and delete roles and permissions. It also includes functionality for searching roles and permissions by name.
 
