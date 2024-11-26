@@ -28,4 +28,4 @@ git clone https://github.com/yourusername/role-permission-management.git
 cd role-permission-management
 ```
 ## https://vrvrbac.netlify.app
-
+![Screenshot 2024-11-26 161421](https://github.com/user-attachments/assets/ce021cbd-6ef1-4589-8b40-c7f780e7822b)
