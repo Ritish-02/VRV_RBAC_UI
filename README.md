@@ -26,6 +26,6 @@ A web application for managing roles and permissions. This system allows adminis
 ```bash
 git clone https://github.com/yourusername/role-permission-management.git
 cd role-permission-management
+```
+## https://vrvrbac.netlify.app
 
-https://vrvrbac.netlify.app
-![Screenshot 2024-11-26 161421](https://github.com/user-attachments/assets/739ed612-2143-4ca5-94ad-382aa094f772)
